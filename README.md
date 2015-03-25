@@ -2,7 +2,8 @@
 
 This toolkit is a set of scripts to help build custom content for the 3D
 Theatres using the Swinburne Center for Astrophysics  and supercomputing's
-AstroTour system.
+AstroTour system.  These tools depend on ImageMagick and ffmpeg, you will need
+to have them installed to use the image and video tools respectively.
 
 
 ## Image tools
