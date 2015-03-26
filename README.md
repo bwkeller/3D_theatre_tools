@@ -34,3 +34,7 @@ This script will convert a video to using this format.
 Some 3D systems use a horizontal rather than vertical tiling for left & right
 eye.  This script will convert a horizontally tiled video to a vertically tiled
 one.
+
+### add_text.sh
+This adds a 3 second black screen with some text to the end of a video.  Useful
+for adding credits.
