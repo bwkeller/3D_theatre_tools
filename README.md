@@ -5,7 +5,7 @@ Theatres using the Swinburne Center for Astrophysics  and supercomputing's
 AstroTour system.  These tools depend on ImageMagick and ffmpeg, you will need
 to have them installed to use the image and video tools respectively.
 
-## [Manual for adding custom content](https://github.com/bwkeller/3D_theatre_tools/blob/master/Making_Custom_Content.md)
+### [Manual for adding custom content](https://github.com/bwkeller/3D_theatre_tools/blob/master/Making_Custom_Content.md)
 
 ## Image tools
 AstroTour requires images to be in a Truevision TGA format, with 8 bit Direct color.
